@@ -2,7 +2,7 @@
 
 Description: Dice Generator with starting prompt.
 
-Author: Kesk
+Author: Spokesk
 
 """
 
